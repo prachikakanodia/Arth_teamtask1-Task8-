@@ -1,4 +1,4 @@
-def aws():
+
 	import os
 
 	print()
