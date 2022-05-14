@@ -12,5 +12,6 @@ We have created a menu using Python integration that automates the various techn
 
 ✔ Basics
 
-Team(ARTH2020_16_5) - Prachika Kanodia, Deepak Shah, Abhishek Sahu, Hardesh Chaudhary, Sandeep Illuri
+Team(ARTH2020_16_5):</br>
+Prachika Kanodia, Deepak Shah, Abhishek Sahu, Hardesh Chaudhary, Sandeep Illuri
 
